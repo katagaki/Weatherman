@@ -1,0 +1,12 @@
+// Configuration file for Weather Information Processing System
+// Metadata version 1.0
+
+// Configure the grid
+GridX_IdxRange=0-8
+GridY_IdxRange=0-8
+
+// Configure city location file names
+// Sequence: city location > cloud cover > pressure
+citylocation.txt
+cloudcover.txt
+pressure.txt
